@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Bl4dr
+- 👀 I’m interested in programming, modding, developping, video ...
+- 🌱 I’m currently learning CSharp (C#)
+- 📫 Professional contact : pro.bl4dr@gmail.com
